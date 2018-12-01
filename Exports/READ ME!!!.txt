@@ -1,0 +1,22 @@
+1. A UnityPackage file in a zip that contains your 10 second game
+
+2. A file containing a list of your sorting layers
+	Background
+	Wave1
+	Player
+	Wave2
+	Pickup
+
+3. A short 1 minute or less video of how your game should play
+
+4. A list of controls for your game
+
+	left arrow key 
+	right arrow key
+
+5. Title and Author of the game as you would want it represented in the game
+	Catch the water pick up game
+	Nick Johnson
+
+6. A link to your GitHub Repository with your code 
+	https://github.com/jedinick12/NiJoWarrioWare
